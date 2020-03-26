@@ -1,0 +1,1 @@
+java -Xms1024M -Xmx3072M -jar spigot-1.15.2.jar
